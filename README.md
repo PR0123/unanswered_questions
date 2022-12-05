@@ -8,3 +8,6 @@ I guess declarative paradigm make sense if there are predefined ways of fulfilin
 
 # Example code
 Here is *move along the path* animation mimicking [SpriteKit SKAction](https://developer.apple.com/documentation/spritekit/skaction/1417798-follow). 
+
+# Also
+Is [it](https://developer.apple.com/forums/thread/720642) worth a feature request?
